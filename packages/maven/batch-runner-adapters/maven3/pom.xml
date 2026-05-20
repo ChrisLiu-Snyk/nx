@@ -15,7 +15,7 @@
     <description>Maven 3.x specific adapter classes for Nx batch runner</description>
 
     <properties>
-        <maven3.version>3.9.9</maven3.version>
+        <maven3.version>3.9.15</maven3.version>
     </properties>
 
     <dependencies>
