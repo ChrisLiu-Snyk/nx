@@ -51,7 +51,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
     <!-- Dependency Versions -->
-    <kotlin.version>1.9.22</kotlin.version>
+    <kotlin.version>1.9.25</kotlin.version>
     <maven.version>4.0.0-rc-5</maven.version>
     <maven.plugin.tools.version>3.11.0</maven.plugin.tools.version>
     <jackson.version>2.16.1</jackson.version>
